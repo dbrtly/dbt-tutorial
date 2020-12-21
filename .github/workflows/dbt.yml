@@ -14,7 +14,8 @@ env:
 jobs:
   dbt:
     name: dbt
-    runs-on: ubuntu-latest
+    environment: dev
+    runs-on: ubuntu-20.04
 
     steps:
       - uses: actions/checkout@master
