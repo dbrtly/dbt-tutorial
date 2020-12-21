@@ -1,3 +1,5 @@
+![dbt](https://github.com/dbrtly/dbt-tutorial/workflows/dbt/badge.svg)
+
 Welcome to your new dbt project!
 
 ### Using the starter project
